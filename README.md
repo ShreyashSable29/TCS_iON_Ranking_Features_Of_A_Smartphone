@@ -1,5 +1,5 @@
 # TCS_iON_Ranking_Features_Of_A_Smartphone
-TCS-iON_ (Ranking-Features-of-a-Smartphone) This Repository contains the project of Ranking Feature of Smartphone that classifies the price range category to which it belongs.
+This Repository contains the project of Ranking Feature of Smartphone that classifies the price range category to which it belongs.
 Rank Features of a Smartphone - Build a Python Application to Classify and Rank Dataset
 
 The objective of this project is to build a python application that classifies the price range category to which the smartphone falls and also to rank the features of a smartphone. This is a multi-class Classification problem.
